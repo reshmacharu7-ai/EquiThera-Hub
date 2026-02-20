@@ -1,16 +1,27 @@
-# proj
+# EquiThera Hub
 
-A new Flutter project.
+EquiThera Hub is a healthcare support application built using Flutter.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Role-based login system
+- Common Dashboard
+- Transgender Healthcare Dashboard
+- Scan Prescription
+- Drug Interaction Checker
+- Mental Health Bot
+- AI Medical Helpline
+- Emergency SOS
+- Hormone Therapy Tracker
+- Health Records
+- Risk Alerts
 
-A few resources to get you started if this is your first Flutter project:
+## Tech Stack
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter
+- Dart
+- Android Studio
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Developer
+
+Reshma U
